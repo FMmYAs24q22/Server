@@ -1,154 +1,976 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718843445825 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843448877 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843451932 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843454986 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843458053 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843461233 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843464284 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843467400 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843470451 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843473490 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843476539 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843479646 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843482706 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843485756 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843488830 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843491999 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843495083 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843498132 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843501188 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843504234 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843507304 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843510355 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843513392 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843516450 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:25565 (proto: Both, port count: 1)
-discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843519496 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718843544902 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
 discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718843522562 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718843547952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843550996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843554042 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843557135 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843560266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843563310 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843566348 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843569398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843572452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843575523 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843578576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843581782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843584927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843588013 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843591105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843594158 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843597221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843600346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843603457 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843606515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843609560 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843612608 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843615648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843618705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843621774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843624832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843627892 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843630963 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843634034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843637108 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843640191 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843643259 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843646325 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843649391 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843652490 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843655560 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843658625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843661666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843664709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843667748 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843670802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843673889 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843676938 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843680008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843683086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843686141 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843689198 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843692263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843695318 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843698362 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843701498 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843704588 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843707625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843710668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843713717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843716771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843719820 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843722872 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843725980 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843729034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843732106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843735149 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843738304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843741339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843744378 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843747445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843750619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843753671 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843756712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843759760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843762816 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843765869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843768935 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843772057 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843775142 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843778190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843781228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843784286 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843787339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843790420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843793511 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843796565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843799634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843802669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843805713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843808769 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843811837 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843814881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843817937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843820995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843824046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843827107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843830190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843833229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843836267 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843839361 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843842408 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843845445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843848481 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843851539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843854628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843857672 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843860798 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843863842 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843866898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843869974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843873058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843876114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843879153 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843882211 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843885311 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843888458 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843891518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843894570 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843897637 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843900689 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843903736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843906803 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843909866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843912921 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843915982 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843919051 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843922088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843925126 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843928169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843931246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843934301 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843937347 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843940419 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843943485 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843946554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843949591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843952630 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843955702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843958749 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843961817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843964878 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843967936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843970991 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843974034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843977122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843980188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843983225 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843986268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843989331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843992370 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843995413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718843998452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718844001556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718844004630 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718844007674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718844010715 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718844013761 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718844016807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718844019860 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718844022907 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718844025978 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718844029056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718844032107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718844035158 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718844038207 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+assessment-attempted.gl.at.ply.gg:32402 => 127.0.0.1:32402 (proto: Both, port count: 1)
+discount-dip.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718844041267 tunnel running, 2 tunnels registered
 
 
 TUNNELS
